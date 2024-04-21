@@ -17,6 +17,8 @@ Throughout the File Permissions on Linux project, the following skills were deve
 The project primarily utilized the `chmod` command for modifying file permissions.
 
 ## Steps
+Execute different change permissions:
+
 
 [Project on linux directory.docx](https://github.com/FrancisDunne/File_Permissions/files/15051347/Project.on.linux.directory.docx)
 
