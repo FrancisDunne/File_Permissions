@@ -21,4 +21,4 @@ The project primarily utilized the `chmod` command for modifying file permission
 [Project on linux directory.docx](https://github.com/FrancisDunne/File_Permissions/files/15051347/Project.on.linux.directory.docx)
 
 
-Through the File Permissions on Linux project, I gained practical experience in managing file security using the `chmod` command, enhancing their ability to enforce security policies and protect sensitive data in Linux environments.
+
