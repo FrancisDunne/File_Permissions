@@ -2,7 +2,7 @@
 
 ## Objective
 
-The File Permissions on Linux project aimed to provide a comprehensive understanding of file system security in a Linux environment. The primary goal was to deepen the understanding of file permissions, enabling effective management of file security using the `chmod` command.
+The File Permissions on Linux project aimed to provide an understanding of file system security in a Linux environment. The goal was to deepen the understanding of file permissions, enabling effective management of file security using the `chmod` command.
 
 ### Skills Learned
 
